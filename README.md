@@ -12,3 +12,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+
+## TECHNOLOGY AND INFORMATION SYSTEM
+
+### Assignment 1
+[Report on Visit to NALI 2023](https://github.com/limchenxi/limchenxi/blob/main/TIS%20Assignment%201.pdf)
+
+### Assignment 2
+[Poster on Industrial Talk 1](https://github.com/limchenxi/limchenxi/blob/main/TIS%20Assignment%202.pdf)
+
+### Assignment 3
+[Video on Visit to UTMDigital](https://github.com/limchenxi/limchenxi/blob/main/TIS%20Assignment%203.pdf)
+
+### Assignment 4
+[Report on Industrial Talks 2]
