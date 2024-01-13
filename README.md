@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lim Chen Xi
 ===================================================================================================================================
-<h3 align="center">I am a software engineering student at University Technology Malaysia, is diving into the world of code with an insatiable curiosity. Passionate about turning ideas into reality through programming, I am eager to learn and explore the vast landscape of software engineering.</h3>
+<h3 align="left">I am a software engineering student at University Technology Malaysia, is diving into the world of code with an insatiable curiosity. Passionate about turning ideas into reality through programming, I am eager to learn and explore the vast landscape of software engineering.</h3>
 
 
 * 🌍  I'm based in Johor, Malaysia
