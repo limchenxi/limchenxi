@@ -27,7 +27,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [Video on Visit to UTMDigital](https://github.com/limchenxi/limchenxi/blob/main/TIS%20Assignment%203.pdf)
 
 ### Assignment 4
-[Report on Industrial Talks 2]
+[Report on Industrial Talks 2](https://github.com/limchenxi/limchenxi/blob/main/TIS%20Assignment%204.pdf)
 
 
 ## Reflections for each assignment
