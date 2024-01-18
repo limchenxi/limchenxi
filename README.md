@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * 🌍  I'm based in Johor, Malaysia
-* 🌱 I’m currently learning **C++**
+* 🌱 I’m currently learning **Software engineering** in UTM
 * 📫 How to reach me **limchenxi@graduate.utm.my**
 
 <h3 align="left">Connect with me:</h3>
