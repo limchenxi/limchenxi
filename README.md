@@ -30,7 +30,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [Report on Industrial Talk 2](https://github.com/limchenxi/limchenxi/blob/main/TIS%20Assignment%204.pdf)
 
 ### Design Thinking
-[Design Thinking Group 7 Report]
+[Design Thinking Group 7 Report](https://github.com/limchenxi/limchenxi/blob/main/DESIGN%20THINKING%20REPORT.pdf)
 
 
 ## Reflections for each assignment
